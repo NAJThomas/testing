@@ -6,6 +6,7 @@
 print "hello"
 urltoscrape = "http://www.bbc.co.uk/news/"
 print urltoscrape
+myage = 21
 #
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
