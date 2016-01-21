@@ -6,7 +6,10 @@
 print "hello"
 urltoscrape = "http://www.bbc.co.uk/news/"
 print urltoscrape
-myage = 21
+newsstoriestoday = 7
+Print (newsstoriestoday)
+mystring = 'what_is_happening_in_davos'
+print my string
 #
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
